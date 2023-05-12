@@ -69,10 +69,8 @@ void search() {
     cout << "\nNot Found" << endl;;
 }
 
-int main()
-{
+int main(){
     input();
     SelectionSort();
     search();
-    
-}
+ }
